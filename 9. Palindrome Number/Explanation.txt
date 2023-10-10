@@ -1,0 +1,4 @@
+1 - declare a temp xb and a reverse for operations
+2 - check if x is negative, then return false, because -100 != 100-
+3 - loop in a do while to reverse the number (manipulling the comma in the "reverse" and "xb" variables)
+4 - return true if the reversed number = x 
