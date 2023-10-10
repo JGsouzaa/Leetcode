@@ -1,0 +1,6 @@
+1 - Order the array using Arrays.sort() method to order the list lexicographically (according to the dictionary)
+2 - Set every element of array to the lowercase
+3 - Get the first and last words from string (since it's order lexicographically there's no need to loop at every element of the array)
+4 - Iterate while the letters of first word matches with the letters of last word, if the letters matches you increment the length of prefix, you set to be less than the first length, to stop if there's perfect match with the word.
+5 - When there's no corresponding with first and last words anymore the while loop breaks
+6 - Return the substring of the first_word (since it's the shortest by the ordernation you did in step 1)
