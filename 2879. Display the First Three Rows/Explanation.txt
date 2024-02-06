@@ -1,0 +1,1 @@
+Use .head(n) method to return the n header elements from dataframe in pandas
